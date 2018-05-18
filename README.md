@@ -185,13 +185,13 @@ make setup
 
 My system:
 
-macOS High Sierra 10.13.4
-Apple LLVM version 9.1.0 (clang-902.0.39.1)
-Target: x86_64-apple-darwin17.5.0
-Thread model: posix
-python 3.6.5
-mklml_mac_2018.0.3.20180406.tgz
-bazel 0.13.0
+- macOS High Sierra 10.13.4
+- Apple LLVM version 9.1.0 (clang-902.0.39.1)
+- Target: x86_64-apple-darwin17.5.0
+- Thread model: posix
+- python 3.6.5
+- mklml_mac_2018.0.3.20180406.tgz
+- bazel 0.13.0
 
 Following instructions at <https://github.com/vfx01j/Tensorflow-MKL-Mac>
 
