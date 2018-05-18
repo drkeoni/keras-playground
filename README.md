@@ -1,5 +1,9 @@
 # Keras Experiments
 
+## Introduction
+
+A code base for experimenting with deep learning and the keras framework.
+
 ### Notes on compiling Tensorflow with Mac CPU optimizations
 
 Since tensorflow doesn't support GPU computation on Mac OS X starting with 1.2, I was

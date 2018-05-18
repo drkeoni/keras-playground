@@ -16,7 +16,7 @@ help:
 	@echo "  Type make setup to install ${PKG_NAME} into the virtualenv"
 
 #
-# 05.11.18 JMS - this recipe has worked for six years, but seems to be running into
+# 05.11.18 JMS - this recipe had worked for six years, but seems to be running into
 # trouble now in my Mac OS X environment.  Switching to python 3.6 best practices
 #
 #create-ve: FORCE

@@ -1,9 +1,11 @@
 ipython
 jupyter
 nose>=1.3.7
-
 seaborn>=0.8.1
+
+networkx>=2.1
 pydot
+Pillow>=5.1.0
 
 #tensorflow>=1.8.0
 # Install custom tensorflow built with CPU optimizations
