@@ -5,7 +5,7 @@ ve/
 
 .ipynb_checkpoints/
 
-notebooks/*.png
-notebooks/*.h5
-notebooks/*.dot
+notebooks/**/*.png
+notebooks/**/*.h5
+notebooks/**/*.dot
 notebooks/node_images/
