@@ -9,3 +9,5 @@ notebooks/**/*.png
 notebooks/**/*.h5
 notebooks/**/*.dot
 notebooks/node_images/
+
+events*.net
